@@ -1,0 +1,14 @@
+*{
+    margin: auto 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    background-image: url("image/body.jpg");
+
+}
+header{
+    background-image: url("image/header.jpg");
+    height: 300px;
+    width: 95%;
+}
