@@ -4,11 +4,11 @@
 }
 body{
     width: 100%;
-    background-image: url("image/body.jpg");
+    background-image: url("/..image/body.jpg");
 
 }
 header{
-    background-image: url("image/header.jpg");
+    background-image: url("../image/header.jpg");
     height: 300px;
     width: 95%;
 }
